@@ -1,6 +1,6 @@
 {
   "name": "passport-supinfo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "SUPINFO OpenID strategy for Passport.",
   "author": {
     "name": "Vincent PEYROUSE",
@@ -16,7 +16,7 @@
   },
   "main": "./lib/passport-supinfo",
   "dependencies": {
-    "passport-openid": "~0.2.3"
+    "passport-openid": ">=0.2.3"
   },
   "engines": {
     "node": ">= 0.6.0"

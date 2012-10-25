@@ -1,6 +1,7 @@
 .DS_Store
 .git*
-
 .nide
+.c9revisions
+.settings
 node_modules
 npm-debug.log
