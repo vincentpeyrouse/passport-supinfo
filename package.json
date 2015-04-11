@@ -1,6 +1,6 @@
 {
   "name": "passport-supinfo",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "SUPINFO OpenID strategy for Passport.",
   "author": {
     "name": "Vincent PEYROUSE",
